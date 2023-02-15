@@ -1,0 +1,21 @@
+[submodule "MapService"]
+	path = MapService
+	url = git@github.com:IronJulo/Beacon-MapService.git
+[submodule "AdminService"]
+	path = AdminService
+	url = git@github.com:IronJulo/Beacon-AdminService.git
+[submodule "NotificationService"]
+	path = NotificationService
+	url = git@github.com:IronJulo/Beacon-NotificationService.git
+[submodule "DeviceService"]
+	path = DeviceService
+	url = git@github.com:IronJulo/Beacon-DeviceService.git
+[submodule "ChatService"]
+	path = ChatService
+	url = git@github.com:IronJulo/Beacon-ChatService.git
+[submodule "AuthService"]
+	path = AuthService
+	url = git@github.com:IronJulo/Beacon-AuthService.git
+[submodule "UserService"]
+	path = UserService
+	url = git@github.com:david-dkp/Beacon-UserService.git
